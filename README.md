@@ -69,7 +69,7 @@ delete from dbo.retail_sales WHERE quantity IS NULL AND price_per_unit IS NULL A
 <br>
 8. Replace NULL age with average age<br>
 <b>select * from dbo.retail_sales WHERE age IS NULL;<br>
-update dbo.retail_sales set age = (select AVG(CAST(age AS INT)) from dbo.retail_sales WHERE age IS NOT NULL) WHERE age IS NULL;</b>
+update dbo.retail_sales set age = (select AVG(CAST(age AS INT)) from dbo.retail_sales WHERE age IS NOT NULL) WHERE age IS NULL;</b><br>
 <img width="426" height="407" alt="image" src="https://github.com/user-attachments/assets/cfc425cf-9841-4114-8495-70518915b410" />
 <br><br>
 9. Update sale time data type from TIME(7) to TIME(0) format<br>
