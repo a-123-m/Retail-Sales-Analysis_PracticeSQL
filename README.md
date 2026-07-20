@@ -1,7 +1,7 @@
 # Retail-Sales-Analysis_PracticeSQL
 A SQL-based data analysis practice project focused on exploring retail sales data through data cleaning, exploratory data analysis (EDA), and business insights generation.<br>
 <p align="center">
-<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/c531ea1f-2210-4b06-83bd-202015360672" />
+<img width="740" height="300" alt="image" src="https://github.com/user-attachments/assets/df1de4f0-4ae7-4884-9056-9d0484e2d369" />
 </p>
 
 ## 📊 Project Overview
